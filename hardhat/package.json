@@ -1,7 +1,7 @@
 {
 	"name": "hardhat-project",
 	"version": "0.0.1",
-	"description": "hardhat-nextjs-tailwind-app",
+	"description": "hardhat-nextjs-ts",
 	"main": "hardhat.config.ts",
 	"scripts": {
 		"test": "npx hardhat test",
